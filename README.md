@@ -6,7 +6,7 @@ Junto a la esfera también hay un spotlight.
 Para esta práctica se utilizó Unity 6000.6.3f1
 
 Cada etapa de la práctica quedó registrado en un commit siendo estos: 
-!. Creación de la esfera.
+1. Creación de la esfera.
 2. Texturizando la esfera.
 3. Agregar el Spotlight.
 4. Cambiar el color de la esfera a rojo.
