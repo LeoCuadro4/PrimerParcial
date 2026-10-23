@@ -14,5 +14,5 @@ Cada etapa de la práctica quedó registrado en un commit siendo estos:
 # Cómo abrir el proyecto
 1. Instala Unity 6000.6.3f1.
 2. Clona el repositorio.
-3. En Unity Hub pulsa Add y selecciona la carpeta dodne clonaste el repositorio.
+3. En Unity Hub pulsa Add y selecciona la carpeta donde clonaste el repositorio.
 4. Abre la escena Assets/Scenes/SampleScene.unity
